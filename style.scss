@@ -85,10 +85,10 @@ body {
     &-description {
         font: {
             family: $secondary_font;
-            size:1rem;
+            size: 1rem;
             weight: $font_regular;
         }
-
+        line-height: 1.5rem;
         width: 50%;        
     }
     &-button:hover {
